@@ -1,0 +1,3 @@
+const cart = []
+
+createTemplate(paletas)
